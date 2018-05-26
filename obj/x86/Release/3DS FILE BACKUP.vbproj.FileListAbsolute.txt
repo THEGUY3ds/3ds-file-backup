@@ -1,0 +1,3 @@
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\3DS FILE BACKUP\3DS FILE BACKUP\obj\x86\Release\_3DS_FILE_BACKUP.Form1.resources
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\3DS FILE BACKUP\3DS FILE BACKUP\obj\x86\Release\_3DS_FILE_BACKUP.Resources.resources
+C:\Users\Steve\Documents\Visual Studio 2010\Projects\3DS FILE BACKUP\3DS FILE BACKUP\obj\x86\Release\3DS FILE BACKUP.vbproj.GenerateResource.Cache
