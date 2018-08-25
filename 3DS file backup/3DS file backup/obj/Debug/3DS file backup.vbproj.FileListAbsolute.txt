@@ -1,0 +1,12 @@
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\obj\Debug\3DS file backup.vbprojAssemblyReference.cache
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\obj\Debug\_3DS_file_backup.Form1.resources
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\obj\Debug\_3DS_file_backup.Resources.resources
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\obj\Debug\3DS file backup.vbproj.GenerateResource.cache
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\obj\Debug\3DS file backup.vbproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\bin\Debug\3DS file backup.exe.config
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\bin\Debug\3DS file backup.exe
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\bin\Debug\3DS file backup.pdb
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\bin\Debug\3DS file backup.xml
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\obj\Debug\3DS file backup.exe
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\obj\Debug\3DS file backup.xml
+C:\Users\Steve\Documents\3dsfile backup\3DS file backup\3DS file backup\obj\Debug\3DS file backup.pdb
